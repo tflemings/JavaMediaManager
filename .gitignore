@@ -1,5 +1,6 @@
 *.class
-
+*.db
+web.xml
 # Package Files #
 *.jar
 *.war
