@@ -1,8 +1,21 @@
+###########################
+## Directories
+###########################
+build/
+nbproject/
+src/conf/
+
+###########################
+## Extensions
+###########################
 *.class
 *.db
-web.xml
-build/
-# Package Files #
+*.xml
+*.sql
+
+###########################
+## Package Files 
+###########################
 *.jar
 *.war
 *.ear
